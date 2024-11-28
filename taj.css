@@ -30,19 +30,53 @@
     padding-bottom: -100px;
 }
 /* ======================SECOND NAV========== */
-#secondnav article {
+#secondnav .nav  {
     display: flex;
-    /* justify-content: space-evenly; */
+    margin: 20px;
+    justify-content: space-evenly;
 }
-#second  article div a {
+#secondnav .nav div a  {
+    color: black;
     text-decoration: none;
-    margin: 30px;
-    margin-right: 50px;
-    font-size: 17px;
-    /* color: white; */
+    text-decoration: none;
 }
-#secondnav  .nav{
-    margin-left: 200px;
-    margin: 100px;
-    margin-top: 5px;
+/* =============main section=============== */
+#main .img div img{
+    height: 400px;
+    width: 700px;
+    margin-left: 650px;
+    margin-top: 60px;
 }
+#main article div  h3 {
+    margin-top: -400px;
+    margin-left: 250px;
+    color: rgba(0, 0, 0, 0.548);
+    font-size: 40px;
+}
+#main article h1{
+    margin-top: 10px;
+    margin-left: 170px;
+    color: rgba(0, 0, 0, 0.433);
+}
+#main article h4{
+    margin-top: 150px;
+    margin-left: 250px;
+    color: rgba(0, 0, 0, 0.548);
+    font-size: 60px;
+}
+#main article h2{
+    margin-bottom: 100px;
+    margin-left: 750px;
+    color: rgba(0, 0, 0, 0.548);
+    font-size: 20px;
+}
+#main .imgsection div img {
+    height: 400px;
+    width: 300px;
+}
+#main .imgsection {
+    display: flex;
+    /* margin-left: 300px; */
+    
+}
+
