@@ -44,11 +44,13 @@ html{
     text-decoration: none;
 }
 /* =============main section=============== */
+
 #main .img div img{
     height: 400px;
     width: 700px;
     margin-left: 650px;
     margin-top: 60px;
+    
 }
 #main article div  h3 {
     margin-top: -400px;
@@ -76,27 +78,44 @@ html{
 #main .imgsection div img {
     height: 400px;
     width: 350px;
+    
 }
 #main .imgsection  {
     display: flex;
-    margin-left: 150px;
+    /* margin-left: 150px; */
     justify-content: space-evenly;
     margin-top: 150px;
 }
 #main .text .text1{
-    margin-left: 230px;
+    margin-left: 120px;
     margin-top: 30px;
+    font-size: 25px;
     color: rgba(0, 0, 0, 0.418);
 }
 #main .text .text2{
-    margin-left: 650px;
+    margin-left: 580px;
     margin-top: -10px;
+    font-size: 21px;
     color: rgba(0, 0, 0, 0.418);
 }
 #main .text .text3{
     margin-left: 1100px;
     margin-top: -20px;
+    font-size: 21px;
     color: rgba(0, 0, 0, 0.418);
+}
+/* ==================heads============== */
+#heads .head1{
+    margin-top: 90px;
+    font-size: 52px;
+    margin-left: 200px;
+    color: rgba(0, 0, 0, 0.57);
+}
+#heads .head2{
+    margin-top: 60px;
+    /* font-size: 52px; */
+    margin-left: 200px;
+    color: rgba(0, 0, 0, 0.57);
 }
 
 
