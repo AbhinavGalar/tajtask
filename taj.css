@@ -135,7 +135,51 @@ font-weight: 300;
 #heads .line{
     margin-left: 200px;
     margin-top: 20px;
+    margin-right: 1000px;
     
 }
-
-
+#heads .head4{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.614);
+}
+#heads .logo1{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#heads .head5{
+    margin-left: 230px;
+    margin-top: -24px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .line1{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 1000px;
+    
+}
+#heads .head6{
+    margin-top: 10px;
+    /* font-size: 52px; */
+    margin-left: 200px;
+    color: rgba(0, 0, 0, 0.57);
+}
+#heads .logo2{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#heads .head7{
+    margin-left: 230px;
+    margin-top: -20px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .line2{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 1000px;
+    
+}
