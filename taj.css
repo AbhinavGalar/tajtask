@@ -5,6 +5,9 @@
 html{
     overflow-x: hidden;
 }
+#navbar {
+    background: #000;
+}
 #navbar article   {
     display: flex;
     /* justify-content: space-evenly; */
@@ -45,6 +48,9 @@ html{
     color: black;
     text-decoration: none;
     text-decoration: none;
+}
+#secondnav .line{
+    margin-top: 100px;
 }
 /* =============main section=============== */
 
