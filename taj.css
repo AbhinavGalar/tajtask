@@ -189,3 +189,22 @@ font-weight: 300;
     margin-right: 1000px;
     
 }
+#heads .head8{
+    margin-top: -280px;
+    /* font-size: 52px; */
+    margin-left: 600px;
+    color: rgba(0, 0, 0, 0.57);
+}
+#heads .head9{
+    margin-left: 600px;
+    /* margin-top: -20px; */
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .logo3{
+    margin-left: 570px;
+    margin-top: 50px;
+   background-color: black;
+   padding: 5px, 5px 5px 5px ;
+}
