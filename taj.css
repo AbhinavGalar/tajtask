@@ -197,7 +197,7 @@ font-weight: 300;
 }
 #heads .head9{
     margin-left: 600px;
-    /* margin-top: -20px; */
+    margin-top: 30px;
 font-size: 20px;
 color: rgba(0, 0, 0, 0.899);
 font-weight: 300;
@@ -207,4 +207,62 @@ font-weight: 300;
     margin-top: 50px;
    background-color: black;
    padding: 5px, 5px 5px 5px ;
+}
+#heads .line3{
+    margin-left: 570px;
+    margin-top: 27px;
+    margin-right: 550px;
+}
+#heads .head10{
+    margin-left: 600px;
+    margin-top: 10px;
+    margin-top: 20px;
+    color: rgba(0, 0, 0, 0.614);
+}
+#heads .logo4{
+    margin-left: 600px;
+    margin-top: 10px;
+}
+#heads .head11{
+    margin-left: 630px;
+    margin-top: -24px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .line4{
+    margin-left: 570px;
+    margin-top: 15px;
+    margin-right: 550px;
+}
+#heads .head12{
+    margin-left: 600px;
+    margin-top: 10px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.614);
+}
+#heads .head13{
+    margin-left: 600px;
+    margin-top: 10px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .line5{
+    margin-left: 570px;
+    margin-top: 15px;
+    margin-right: 550px;
+}
+#heads .head14{
+    margin-left: 1100px;
+    /* margin-top: -100px; */
+    margin-top: -267px;
+    color: rgba(0, 0, 0, 0.614);
+}
+#heads .logo5{
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+#heads .head15{
+    
 }
