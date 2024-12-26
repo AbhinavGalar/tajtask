@@ -51,6 +51,7 @@ html{
 }
 #secondnav .line{
     margin-top: 100px;
+    color: beige;
 }
 /* =============main section=============== */
 
@@ -271,9 +272,55 @@ font-size: 20px;
 color: rgba(0, 0, 0, 0.899);
 font-weight: 300;
 }
+#heads .line6{
+    margin-left: 1030px;
+    margin-top: 11px;
+    margin-right: 100px;
+}
 #heads .logo6{
     margin-left: 1050px;
     margin-top: 50px;
     background-color: bisque;
-    margin: 0px 0px 0px 20px ;
+    margin-right: 800px;
+}
+#heads .head16{
+    margin-left: 1080px;
+    margin-top: -20px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .logo7{
+    margin-left: 1050px;
+    margin-top: 30px;
+    background-color: bisque;
+    margin-right: 500px;
+}
+#heads .head17{
+    margin-left: 1080px;
+    margin-top: -20px;
+font-size: 20px;
+color: rgba(0, 0, 0, 0.899);
+font-weight: 300;
+}
+#heads .btn a{
+    text-decoration: none;
+    /* margin-bottom: 50px; */
+    color: #ad8b3a;
+    font-size: 20px;
+    text-decoration: underline;
+}
+#heads .btn{
+    margin-left: 700px;
+    margin-top: 40px;
+    
+}
+#heads .logo8{
+    margin-left: 650px;
+    margin-top: -20px;
+    margin-right: 500px;
+    color: #ad8b3a;
+}
+#hero .hero1 {
+    background-color: #ad8b3a;
 }
