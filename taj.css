@@ -321,6 +321,30 @@ font-weight: 300;
     margin-right: 500px;
     color: #ad8b3a;
 }
-#hero .hero1 {
-    background-color: #ad8b3a;
+ #hero .hero1 {
+    background-color: #f6f5f5;
+    margin-top: 70px;
+    padding-right:500px;
+}
+#hero .head18{
+    margin-left: 180px;
+    font-size: 60px;
+    color: #45443f;
+}
+#hero .line7{
+    margin-top: 50px;
+    margin-right: 700px;
+    color: #45443f;
+
+}
+#hero .line8{
+    margin-left: 800px;
+    margin-left: 700px;
+    margin-top: -2px;
+    color: #45443f;
+}
+/* ================== */
+#hero .logo9{
+    margin-left: 200px;
+    margin-top: 100px;
 }
