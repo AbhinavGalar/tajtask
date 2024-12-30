@@ -365,10 +365,55 @@ font-weight: 300;
     margin-top: -20px;
     font-size: 23px;
     color: #45443f;
+    /* background-color: black; */
 }
 #hero .logo11{
-    margin-top: 30px;
+    /* margin-top: -60px; */
+    margin-bottom: 50px;
     margin-left: -20px;
     color: #ad8b3a;
     
+}
+#hero .head21{
+    margin-left: 10px;
+    margin-top: -70px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .head22{
+    margin-left: 10px;
+    margin-top: -70px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .logo12{
+    margin-bottom: 50px;
+    margin-left: -20px;
+    color: #ad8b3a;
+}
+#hero .head23{
+    margin-left: 10px;
+    margin-top: -70px;
+    font-size: 23px;
+    color: #45443f;
+    /* backdrop-filter: blur(4px) saturated(180%); */
+    font-weight: 50px;
+
+}
+#hero .line9{
+    margin-top: 20px;
+    margin-left: -80px;
+    margin-right: 500px;
+    font-weight: 50px;
+    /* backdrop-filter: blur(4px) saturated(180%); */
+}
+#hero .lotus img{
+    height: 20px;
+    width: 30px;
+}
+#hero .lotus{
+    margin-top: 50px;
+    margin-left: -20px;
+    /* background-color: black; */
+    margin-left: -50px;
 }
