@@ -410,10 +410,124 @@ font-weight: 300;
 #hero .lotus img{
     height: 20px;
     width: 30px;
+    /* margin-left: -100px */
+    padding-right: -100px;
 }
 #hero .lotus{
-    margin-top: 50px;
+    margin-top: 40px;
+    margin-left: -60px;
+
+}
+#hero .head24{
     margin-left: -20px;
+    margin-top: -25px;
+    font-size: 23px;
+    color: #45443f;
+    font-weight: 50px;
+}
+#hero .logo13{
+    margin-left: -20px;
+    margin-top: 30px;
+    color: #ad8b3a;
+}
+#hero .head25{
+    margin-left: 10px;
+    margin-top: -23px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .logo14{
+    margin-left: -20px;
+    margin-top: -50px;
+    color: #ad8b3a;
+}
+#hero .head26{
+    margin-left: 10px;
+    margin-top: -23px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .logo15{
+    margin-left: -20px;
+    margin-top: 35px;
+    color: #ad8b3a;
+}
+#hero .head27{
+    margin-left: 10px;
+    margin-top: -23px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .head28{
+    margin-left: 10px;
+    margin-top: -30px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .logo16{
+    margin-left: -20px;
+    margin-top:  10px;
+    color: #ad8b3a;
+}
+#hero .Dining   img{
+    height: 20px;
+    width: 30px;
+    /* margin-left: -100px */
+    /* padding-right: -100px; */
+}
+#hero .Dining {
+    margin-left: 600px;
+    /* margin-top: -330px; */
+    /* background: black; */
+    margin-right: 300px;
+    
+}
+#hero .head29{
+    margin-left: 690px;
+    margin-top: -330px;
+    background-color: black;
+    margin-right: 400px;
+font-size: 23px;
+}
+#hero .logo17{
+    margin-left: 670px;
+    margin-top:  20px;
+    color: #ad8b3a;
+}
+#hero .head30{
+    margin-left: 700px;
     /* background-color: black; */
-    margin-left: -50px;
+    margin-right: -100px;
+    margin-top: -20px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .head31{
+    margin-left: 700px;
+    /* background-color: black; */
+    margin-right: -500px;
+    margin-top: -20px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .logo18{
+    margin-left: 670px;
+    margin-top:  10px;
+    color: #ad8b3a;
+}
+#hero .logo19{
+    margin-left: 670px;
+    margin-top:  -30px;
+    color: #ad8b3a;
+}
+#hero .head32{
+    margin-left: 700px;
+    /* background-color: black; */
+    margin-right: -500px;
+    margin-bottom: 10px;
+    font-size: 23px;
+    color: #45443f;
+}
+#hero .line9{
+  
 }
